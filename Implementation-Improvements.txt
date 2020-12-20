@@ -1,0 +1,11 @@
+Implementation-
+1) Modular framework comprising application, utility packages
+2) Page Object design pattern with various classes for each page of  AUT in application package. Each class comprises locators variables of web object and methods for operations to be performed on same webpage.
+3) Data Driven framework, for reading test data from excel sheet. Excel related operations are placed in a class under utility package.
+4) Generic method class is created, which covers generic methods on webdriver such as screenshot capture, explicit wait etc.
+
+Improvement-
+1) Cucumber Hooks implementation: To improve test scenario execution flow.
+2) PageFactory class implementation: To improve Page Object design pattern in current framework.
+3) Test result report implementation: To replace brief console based output with proper readable & reportable format.
+4) Screenshot folder restructuring: Folder structure can be improved further by restructuring it as per test run and time of run.
