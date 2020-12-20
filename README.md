@@ -1,10 +1,9 @@
 # AutomationExercise
 
 The framework is created for automation exercise
-NOTE: Facing some issues with adding of project files in github. Therefore, added project zip file to review. Trying to fix the issue and upload project itself.
 
 Steps for project setup-
-1. Download the practice.zip file and extract all files in your local drive.
+1. Clone the 'practice' project in your local drive.
 2. Download Maven and Java 1.8, setup Environment Path for both.
 
 Steps to run the test-
